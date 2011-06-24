@@ -1,0 +1,3 @@
+location ^~ /hovercard {
+    alias /Users/macasek/src/hovercard;
+}
